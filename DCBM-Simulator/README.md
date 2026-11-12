@@ -23,20 +23,6 @@ If unavailable, **Use snapshot tip** starts from the included offline data.
 Future outcomes are assumptions, not forecasts. The included snapshot is fixed;
 its exact height, hash, and collection time appear in the simulator.
 
-## Put it on GitHub
-
-- **Downloadable release:** Attach `DCBM-Simulator-v1.0.zip` to a GitHub Release.
-  Visitors download and extract the ZIP, then open `index.html`.
-- **Browse the source:** Extract the ZIP, then upload its contents to your
-  repository using **Add file → Upload files**. Uploading a ZIP through that
-  screen stores the ZIP; GitHub does not automatically extract it.
-- **Live GitHub Pages demo:** Upload `index.html` to the root of a Pages branch
-  or to its configured `/docs` folder, then enable that source in
-  **Settings → Pages**. The single HTML file needs no build step or backend.
-  Enabling Pages publishes the included public snapshot and simulator.
-
-No pull request is needed to upload files to a repository you own.
-
 ## Rebuild offline from source
 
 Python 3.11 or newer is required; no pip dependencies are needed.
