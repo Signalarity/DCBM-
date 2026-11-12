@@ -1,0 +1,24 @@
+{
+  "package": "DCBM Simulator",
+  "version": "1.0",
+  "created_at": "2026-11-12T02:54:46.906097+00:00",
+  "snapshot_height": 981589,
+  "snapshot_hash": "000000000000000076aa6f37a5fb325d2a3a3fffb55b2f3be9fa4fb7828b8a24",
+  "files": {
+    "LICENSE": "7c4a87f43afaf667b4c2187af92ebdd27310a24cec113f973e058e3300a76002",
+    "README.md": "09772057005cd97a0a2f0dfedb4f6c3552cf3ea30621ba4cfb11b5cc433f0f75",
+    "contrib/dcbm/install-simulator-launcher.py": "3ab00524bcc00598a67fccaae0b6b80f0408c4020e35b3306f53ba591d8134ba",
+    "contrib/dcbm/package-simulator.py": "90da65867103f010892638afe7c41bb34560a234638605409c74e34adf647e77",
+    "contrib/dcbm/run-simulator.sh": "5fd930fccbd94e1a0b593eb614ee71c96223a2789c817b411f1c66998de7a695",
+    "contrib/dcbm/simulator.py": "f2b797e574794fca7a19bab28e7b96fff5efd6af253309dc1d6c535ae15ae4c7",
+    "contrib/dcbm/simulator/app.js": "c3d57eb7fc0cbd657a0370ad9835a56c69e63eaa9d254bd57ff1632d582691b3",
+    "contrib/dcbm/simulator/engine.js": "b3e277ba7c70e59a31d57769b6b9e2e6f6ece7c71b1523198e3ef307f0d57a8a",
+    "contrib/dcbm/simulator/icon.svg": "0ba68872a4add9e1b9fc17f44802c3c56ca39f4d74ad0b5dcb80b0f70753a3b8",
+    "contrib/dcbm/simulator/report.html": "55e80674f51516e555d3db50d6be0f0b3f938d90fa90edd62be00f6dfea18218",
+    "contrib/dcbm/simulator/style.css": "604987eaa45dcb1005ccc7260075d302ff0effdc9a598fd964fd8f23f31cf195",
+    "contrib/dcbm/simulator/test_simulator.py": "c353eb67b00c73912d4bb92663e392a01a722c82a8e12c631aca28aa2b735f57",
+    "data/history.json": "5176009d7a76e65cc18cfd911ddb7a4861e52aabf483ab664425947cc184de3f",
+    "doc/dcbm-simulator.md": "e069a0941c8c3acbc764b512f849110ddd3fb6223bed830a7ec9f116a4e900d1",
+    "index.html": "22fa6397764093e837864ea345c9f5f975e9601004bcdf2946b244abb501e335"
+  }
+}
